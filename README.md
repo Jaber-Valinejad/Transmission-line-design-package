@@ -4,9 +4,7 @@ and lifetime of insulating materials. In recent years, Mazandaran and Golestan
 provinces in Iran have witnessed a climate change and an increase in air pollu-
 tion. This problem increases outages and losses in transmission and overhead
 distribution network. Moreover, traditional and empirical methods have been
-used for insulation coordination in past decades. As a result, research is needed
-on the regional power line isolation, revision of insulated surface design, and
-the number of insulators used. In this paper, a specialized software was used
+used for insulation coordination in past decades. In this project, a specialized software was used
 for checking existing lines in Mazandaran and Golestan Regional Power. Insu-
 lation computations and isolation studies using MATLAB software were used to
 present solutions for transmission and overhead distribution networks. This spe-
